@@ -1,0 +1,6 @@
+package fr.dai5.java.offre;
+
+public enum CategorieProduit {
+	ALIMENTATION, JARDIN, ANIMAUX, ELECTRONIQUE, MENAGER, BRICOLAGE, VETEMENT, 
+	TEXTILE, SANTE, COSMETIQUE, BIO
+}
